@@ -6,7 +6,7 @@
 // (works for arrays of different lengths).
 //c.	Use a loop to iterate through the array and calculate the average age. Print the result to the console.
 let ages = [3, 9, 23, 64, 2, 8, 28, 93];
-let sub = ages.reduce()
+let ages = 
 
 console.log(ages.length);
 
